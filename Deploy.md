@@ -167,7 +167,7 @@ $ git clone https://github.com/Uniswap/uniswap-interface.git
 ```
 $ cd uniswap-interface
 # 切换指定分支
-$ git checkout v4.40.0
+$ git checkout v3.3.4
 # 安装yarn工具
 $ npm install -g yarn
 # 给项目暗转依赖（C:\Users\ChiangFire\AppData\Roaming\nvm\v16.13.2\node_modules\yarn\bin\yarn install）
