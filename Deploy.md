@@ -167,7 +167,7 @@ $ git clone https://github.com/Uniswap/uniswap-interface.git
 ```
 $ cd uniswap-interface
 # 切换指定分支
-$ git checkout v3.3.4
+$ git checkout v3.2.20
 # 安装yarn工具
 $ npm install -g yarn
 # 给项目暗转依赖（C:\Users\ChiangFire\AppData\Roaming\nvm\v16.13.2\node_modules\yarn\bin\yarn install）
@@ -199,7 +199,6 @@ import { AbstractConnector } from '@web3-react/abstract-connector'
 import { ChainId, JSBI, Percent, Token, WETH } from '@uniswap/sdk'
 
 import { fortmatic, injected, portis, walletconnect, walletlink } from '../connectors'
-//export const V2_ROUTER_ADDRESS = '0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D' //修改成你的路由合约地址
 export const ROUTER_ADDRESS = '0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D' //修改成你的路由合约地址
 ......
 ```
