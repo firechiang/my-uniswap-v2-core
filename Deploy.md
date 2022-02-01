@@ -155,7 +155,7 @@ D-->|调用|C
 > 在项目目录运行命令:
 
 ```
-$ git clone https://github.com/Uniswap/uniswap-interface.git
+$ git clone https://github.com/firechiang/uniswap-interface.git
 ```
 
 ### 安装依赖库
