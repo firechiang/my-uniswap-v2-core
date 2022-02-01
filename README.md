@@ -1,4 +1,4 @@
-# Uniswap V2 中文注释,中文文档
+# Uniswap V2 中文注释,中文文档（注释）
 
 - [白皮书翻译](./WhitepaperCN.pdf)
 
