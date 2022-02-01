@@ -178,6 +178,7 @@ $ yarn install
 
 
 ```
+# C:\Users\ChiangFire\AppData\Roaming\nvm\v16.13.2\node_modules\yarn\bin\yarn start
 $ yarn start
 ```
 
