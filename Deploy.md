@@ -171,7 +171,7 @@ $ git checkout v4.40.0
 # 安装yarn工具
 $ npm install -g yarn
 # 给项目暗转依赖
-$ yarn
+$ yarn install
 ```
 
 > 安装完成后,可以先测试运行一下,在uniswap-interface目录运行命令
