@@ -170,7 +170,7 @@ $ cd uniswap-interface
 $ git checkout v4.40.0
 # 安装yarn工具
 $ npm install -g yarn
-# 给项目暗转依赖
+# 给项目暗转依赖（C:\Users\ChiangFire\AppData\Roaming\nvm\v16.13.2\node_modules\yarn\bin\yarn install）
 $ yarn install
 ```
 
